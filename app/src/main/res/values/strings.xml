@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pokemon Finder</string>
+    <string name="btn_start">Let\'s go!</string>
+    <string name="ts_name_empty">Name is empty</string>
+</resources>
